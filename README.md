@@ -13,6 +13,5 @@ They reflect common trade-offs and constraints observed in day-to-day software d
 rather than an idealised process.
 
 Deliberately omitted: formal project plans and decision records, which
-in practice tend to be transient, fragmented across tools,
-or embedded implicitly in tickets, code, and everyday conversations.
+in practice tend to be transient.
 
